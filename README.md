@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Patrick Presley! 👨‍💻 </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Patrick Presley! </h1>
 
 
 I work as a Site Reliability Engineer in Wipro Technologies. I´m based out of Delhi, India.
