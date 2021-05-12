@@ -33,4 +33,4 @@ Currently enhancing more on  my SRE skills.
 ### 🌎 Connect with me 
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/patrickpresley084/)](https://www.linkedin.com/in/patrickpresley084/)
 [![Instagram](https://img.shields.io/badge/-instagram-white?style=flat&logo=instagram&link=https://www.instagram.com/_cyb3rw0rm_/)](https://www.instagram.com/_cyb3rw0rm_/)
-[![Twitter](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&link=https://twitter.com/cyb3rw0rm84)](https://twitter.com/cyb3rw0rm84)
+[![Twitter](https://img.shields.io/badge/-twitter-blue?style=flat&logo=twitter&link=https://twitter.com/cyb3rw0rm84)](https://twitter.com/cyb3rw0rm84)
