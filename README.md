@@ -5,7 +5,7 @@ I work as a Site Reliability Engineer in Wipro Technologies. I´m based out of D
 I started my devops career in 2015 and it's been over 4 years now. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code.
 Currently enhancing more on  my SRE skills.
 
-### My Skills ⚒️
+### ⚒️ My Skills 
 
 [![Python](https://img.shields.io/badge/-python-white?style=flat&logo=python&link=https://github.com/patrickpresley084)](https://github.com/patrickpresley084)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/patrickpresley084)](https://github.com/patrickpresley084)
@@ -23,11 +23,11 @@ Currently enhancing more on  my SRE skills.
 [![Chef](https://img.shields.io/badge/-chef-black?style=flat&logo=chef&link=https://github.com/patrickpresley084)](https://github.com/patrickpresley084)
 [![Puppet](https://img.shields.io/badge/-puppet-black?style=flat&logo=puppet&link=https://github.com/patrickpresley084)](https://github.com/patrickpresley084)
 
-### Currently learning 🌱
+### 🌱 Currently learning 
 - AZ-104 Azure administrator
 - CKA Certified Kubernetes Adminitrator
 
-### Connect with me 🌎
+### 🌎 Connect with me 
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/patrickpresley084/)](https://www.linkedin.com/in/patrickpresley084/)
 [![Instagram](https://img.shields.io/badge/-instagram-white?style=flat&logo=instagram&link=https://www.instagram.com/_cyb3rw0rm_/)](https://www.instagram.com/_cyb3rw0rm_/)
 [![Twitter](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&link=https://twitter.com/cyb3rw0rm84)](https://twitter.com/cyb3rw0rm84)
